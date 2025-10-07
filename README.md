@@ -1,2 +1,2 @@
-# Snake_-Apple_Game
-snake ans Apple game made using just "pygame" module of Python.
+# Snake_and_Apple_Game
+Snake and Apple game made using just "pygame" module of Python.
